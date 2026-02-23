@@ -12,15 +12,11 @@ this is an example content
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
-'''bash
-ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
-'''
-
 ```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
 
-![Mona the Octocat](myrepo/original.png)
+![Mona the Octocat](https://octodex.github.com/images/original.png)
 
 <img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
 width="200" align="right">
